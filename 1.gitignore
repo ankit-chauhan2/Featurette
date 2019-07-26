@@ -1,6 +1,0 @@
-node_modules
-*.txt
-.env
-.sass-cache
-index.html
-tracked.html
